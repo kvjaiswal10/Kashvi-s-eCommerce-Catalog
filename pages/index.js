@@ -22,7 +22,7 @@ export default function Home({ products }) {
       {/* Top Navigation Bar */}
       <nav className="sticky top-0 z-50 bg-white border-b border-[#ddb7ab] py-4 px-6 flex justify-between items-center shadow-sm">
         <h1 className="text-2xl font-bold text-[#B76E79] tracking-wide">
-          e-Commerce
+          Kashvi's e-Commerce Catalog
         </h1>
         <button
           className="bg-[#B76E79] hover:bg-[#a25a64] text-white px-4 py-2 rounded-xl text-sm font-medium transition-colors"
